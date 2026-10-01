@@ -4,12 +4,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7AA2F7&height=190&section=header&text=Syed%20Zohaib&fontSize=50&fontColor=C0CAF5&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20Pakistan&descSize=16&descColor=9AA5CE&descAlignY=62" alt="Syed Zohaib Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7AA2F7&height=190&section=header&text=Syed%20Zohaib&fontSize=50&fontColor=C0CAF5&fontAlignY=40&desc=Full%20Stack%20Developer%20from%20Pakistan&descSize=16&descColor=9AA5CE&descAlignY=62" alt="Syed Zohaib Header" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/syedzohaib29">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Pakistan;Ask+me+about+React+%26+Next.js;Learning+AI+%2F+ML+%2F+Automation;Building+scalable+web+applications" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Syed+Zohaib;Full+Stack+Developer+from+Pakistan;Ask+me+about+React%2C+Next.js;Currently+learning+AI%2FML%2FAutomation" alt="Typing introduction"/>
 </a>
 
 <br/><br/>
@@ -17,7 +17,7 @@
 <a href="https://github.com/syedzohaib29">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://linkedin.com/in/syed-zohaib">
+<a href="https://linkedin.com/in/syed zohaib" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:syedzohaib358@gmail.com">
@@ -31,21 +31,19 @@
 ---
 
 <!-- ========================================================= -->
-<!--                       ABOUT                               -->
+<!--                       ABOUT ME                            -->
 <!-- ========================================================= -->
 
 ## About Me
 
-Hi 👋, I'm **Syed Zohaib**, a Full Stack Developer based in Pakistan.
-
-* 🌱 Currently learning **AI / ML / Automation**
-* 💬 Ask me about **React & Next.js**
-* 📫 Reach out via email at **[syedzohaib358@gmail.com](mailto:syedzohaib358@gmail.com)**
+- 🌱 I’m currently learning **AI/ML/Automation**
+- 💬 Ask me about **React,Next.js**
+- 📫 How to reach me **syedzohaib358@gmail.com**
 
 ---
 
 <!-- ========================================================= -->
-<!--                    FEATURED PROJECT                       -->
+<!--                    FEATURED REPOSITORY                    -->
 <!-- ========================================================= -->
 
 ## Featured Repository
@@ -61,42 +59,62 @@ Hi 👋, I'm **Syed Zohaib**, a Full Stack Developer based in Pakistan.
 ---
 
 <!-- ========================================================= -->
-<!--                    LANGUAGES & TOOLS                      -->
+<!--                  LANGUAGES AND TOOLS                      -->
 <!-- ========================================================= -->
 
-## Languages & Tools
+## Languages and Tools
 
-<div align="center">
-
-### Frontend & UI
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,redux,sass,materialui,figma&theme=dark" alt="Frontend tools"/>
-
-<br/><br/>
-
-### Backend & Frameworks
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,java,cpp,graphql&theme=dark" alt="Backend tools"/>
-
-<br/><br/>
-
-### AI, Data & Automation
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,python,selenium,zapier&theme=dark" alt="AI and ML tools"/>
-
-<br/><br/>
-
-### Databases & Cloud Services
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,appwrite,aws,azure,gcp&theme=dark" alt="Database and cloud tools"/>
-
-<br/><br/>
-
-### DevOps, System & Monitoring
-
-<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,linux,bash,grafana&theme=dark" alt="DevOps and tools"/>
-
-</div>
+<p align="left">
+  <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
+  <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+  <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
+</p>
 
 ---
 
@@ -108,12 +126,12 @@ Hi 👋, I'm **Syed Zohaib**, a Full Stack Developer based in Pakistan.
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=syedzohaib29&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=C0CAF5&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Overview" alt="GitHub statistics"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedzohaib29&layout=compact&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5&langs_count=8&card_width=380&custom_title=Most%20Used%20Languages" alt="Most used languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=syedzohaib29&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=C0CAF5&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Overview" alt="syedzohaib29 stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedzohaib29&layout=compact&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5&langs_count=8&card_width=380&custom_title=Most%20Used%20Languages" alt="syedzohaib29 top languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=syedzohaib29&hide_border=true&background=0D1117&ring=7AA2F7&fire=FF9E64&currStreakNum=C0CAF5&sideNums=C0CAF5&currStreakLabel=7AA2F7&sideLabels=9AA5CE&dates=565F89" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com/?user=syedzohaib29&hide_border=true&background=0D1117&ring=7AA2F7&fire=FF9E64&currStreakNum=C0CAF5&sideNums=C0CAF5&currStreakLabel=7AA2F7&sideLabels=9AA5CE&dates=565F89" alt="syedzohaib29 streak"/>
 
 </div>
 
@@ -155,7 +173,9 @@ Hi 👋, I'm **Syed Zohaib**, a Full Stack Developer based in Pakistan.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=syedzohaib29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub trophies"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=syedzohaib29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="syedzohaib29 trophies"/>
+</a>
 
 </div>
 
@@ -165,15 +185,15 @@ Hi 👋, I'm **Syed Zohaib**, a Full Stack Developer based in Pakistan.
 <!--                       CONNECT                             -->
 <!-- ========================================================= -->
 
-## Let's Connect
+## Connect with me:
 
 <div align="center">
 
-<a href="mailto:syedzohaib358@gmail.com">
-<img src="https://img.shields.io/badge/Get%20in%20Touch-7AA2F7?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Contact me"/>
+<a href="https://linkedin.com/in/syed zohaib" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="syed zohaib linkedin"/>
 </a>
-<a href="https://linkedin.com/in/syed-zohaib">
-<img src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn"/>
+<a href="mailto:syedzohaib358@gmail.com">
+<img src="https://img.shields.io/badge/Email-1A1B26?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email"/>
 </a>
 <a href="https://github.com/syedzohaib29">
 <img src="https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="GitHub"/>
