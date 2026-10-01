@@ -43,22 +43,6 @@
 ---
 
 <!-- ========================================================= -->
-<!--                    FEATURED REPOSITORY                    -->
-<!-- ========================================================= -->
-
-## Featured Repository
-
-<div align="center">
-
-<a href="https://github.com/syedzohaib29/Image-to-text">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=syedzohaib29&repo=Image-to-text&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=C0CAF5" alt="Image to Text Repository"/>
-</a>
-
-</div>
-
----
-
-<!-- ========================================================= -->
 <!--                  LANGUAGES AND TOOLS                      -->
 <!-- ========================================================= -->
 
@@ -115,69 +99,6 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
 </p>
-
----
-
-<!-- ========================================================= -->
-<!--                   GITHUB ANALYTICS                        -->
-<!-- ========================================================= -->
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=syedzohaib29&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=C0CAF5&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Overview" alt="syedzohaib29 stats"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedzohaib29&layout=compact&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5&langs_count=8&card_width=380&custom_title=Most%20Used%20Languages" alt="syedzohaib29 top languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=syedzohaib29&hide_border=true&background=0D1117&ring=7AA2F7&fire=FF9E64&currStreakNum=C0CAF5&sideNums=C0CAF5&currStreakLabel=7AA2F7&sideLabels=9AA5CE&dates=565F89" alt="syedzohaib29 streak"/>
-
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                 CONTRIBUTION ACTIVITY                     -->
-<!-- ========================================================= -->
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedzohaib29&bg_color=0D1117&color=9AA5CE&line=7AA2F7&point=C0CAF5&area=true&area_color=7AA2F7&hide_border=true&radius=8&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" width="100%"/>
-
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                  CONTRIBUTION SNAKE                       -->
-<!-- ========================================================= -->
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/syedzohaib29/syedzohaib29/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                    GITHUB TROPHIES                        -->
-<!-- ========================================================= -->
-
-## GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=syedzohaib29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="syedzohaib29 trophies"/>
-</a>
-
-</div>
 
 ---
 
