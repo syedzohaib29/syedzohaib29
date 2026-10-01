@@ -26,10 +26,6 @@
 <img src="https://img.shields.io/badge/Email-1A1B26?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=syedzohaib29&label=PROFILE%20VIEWS&color=1A1B26&style=for-the-badge" alt="Profile views"/>
-
 </div>
 
 <br/>
@@ -122,46 +118,6 @@ I'm **Syed Zohaib**, a Full Stack Developer from Pakistan focused on building mo
 
 <!-- ========================================================= -->
 
-<!--                 FEATURED PROJECTS                          -->
-
-<!-- ========================================================= -->
-
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/syedzohaib29?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=syedzohaib29&repo=REPO-NAME-1&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=C0CAF5" alt="Featured project 1"/>
-</a>
-
-<a href="https://github.com/syedzohaib29?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=syedzohaib29&repo=REPO-NAME-2&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=C0CAF5" alt="Featured project 2"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/syedzohaib29?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=syedzohaib29&repo=REPO-NAME-3&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=C0CAF5" alt="Featured project 3"/>
-</a>
-
-<a href="https://github.com/syedzohaib29?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=syedzohaib29&repo=REPO-NAME-4&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=C0CAF5" alt="Featured project 4"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/syedzohaib29?tab=repositories">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-7AA2F7?style=for-the-badge&logo=github&logoColor=0D1117" alt="View all repositories"/>
-</a>
-
-</div>
-
-> **Replace `REPO-NAME-1` through `REPO-NAME-4` with your actual repository names.**
-
----
-
-<!-- ========================================================= -->
-
 <!--                   GITHUB ANALYTICS                        -->
 
 <!-- ========================================================= -->
@@ -246,10 +202,6 @@ I'm **Syed Zohaib**, a Full Stack Developer from Pakistan focused on building mo
 
 <a href="https://github.com/syedzohaib29?tab=stars">
 <img src="https://img.shields.io/badge/Starred%20Projects-View%20All-1A1B26?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="Starred projects"/>
-</a>
-
-<a href="https://github.com/syedzohaib29">
-<img src="https://img.shields.io/github/followers/syedzohaib29?label=Followers&style=for-the-badge&color=1A1B26&logo=github&logoColor=7AA2F7" alt="GitHub followers"/>
 </a>
 
 </div>
