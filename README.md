@@ -1,7 +1,5 @@
 <!-- ========================================================= -->
-
 <!--                       HEADER                              -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -33,9 +31,7 @@
 ---
 
 <!-- ========================================================= -->
-
 <!--                       ABOUT                               -->
-
 <!-- ========================================================= -->
 
 ## About
@@ -51,9 +47,7 @@ I'm **Syed Zohaib**, a Full Stack Developer from Pakistan focused on building mo
 ---
 
 <!-- ========================================================= -->
-
 <!--                    WHAT I DO                              -->
-
 <!-- ========================================================= -->
 
 ## What I Build
@@ -71,9 +65,7 @@ I'm **Syed Zohaib**, a Full Stack Developer from Pakistan focused on building mo
 ---
 
 <!-- ========================================================= -->
-
 <!--                    TECH STACK                             -->
-
 <!-- ========================================================= -->
 
 ## Tech Stack
@@ -94,11 +86,7 @@ I'm **Syed Zohaib**, a Full Stack Developer from Pakistan focused on building mo
 
 ### AI / ML & Data
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI and machine learning technologies"/>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,python&theme=dark" alt="AI and machine learning technologies"/>
 
 <br/><br/>
 
@@ -117,9 +105,7 @@ I'm **Syed Zohaib**, a Full Stack Developer from Pakistan focused on building mo
 ---
 
 <!-- ========================================================= -->
-
 <!--                   GITHUB ANALYTICS                        -->
-
 <!-- ========================================================= -->
 
 ## GitHub Analytics
@@ -127,7 +113,6 @@ I'm **Syed Zohaib**, a Full Stack Developer from Pakistan focused on building mo
 <div align="center">
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=syedzohaib29&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=C0CAF5&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Overview" alt="GitHub statistics"/>
-
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedzohaib29&layout=compact&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5&langs_count=8&card_width=380&custom_title=Most%20Used%20Languages" alt="Most used languages"/>
 
 <br/><br/>
@@ -139,9 +124,7 @@ I'm **Syed Zohaib**, a Full Stack Developer from Pakistan focused on building mo
 ---
 
 <!-- ========================================================= -->
-
 <!--                 CONTRIBUTION ACTIVITY                     -->
-
 <!-- ========================================================= -->
 
 ## Contribution Activity
@@ -155,9 +138,7 @@ I'm **Syed Zohaib**, a Full Stack Developer from Pakistan focused on building mo
 ---
 
 <!-- ========================================================= -->
-
 <!--                  CONTRIBUTION SNAKE                       -->
-
 <!-- ========================================================= -->
 
 ## Contribution Graph
@@ -171,9 +152,7 @@ I'm **Syed Zohaib**, a Full Stack Developer from Pakistan focused on building mo
 ---
 
 <!-- ========================================================= -->
-
 <!--                    GITHUB TROPHIES                        -->
-
 <!-- ========================================================= -->
 
 ## GitHub Trophies
@@ -187,9 +166,7 @@ I'm **Syed Zohaib**, a Full Stack Developer from Pakistan focused on building mo
 ---
 
 <!-- ========================================================= -->
-
 <!--                  GITHUB SUMMARY                           -->
-
 <!-- ========================================================= -->
 
 ## GitHub Summary
@@ -209,9 +186,7 @@ I'm **Syed Zohaib**, a Full Stack Developer from Pakistan focused on building mo
 ---
 
 <!-- ========================================================= -->
-
 <!--                       CONNECT                             -->
-
 <!-- ========================================================= -->
 
 ## Let's Connect
@@ -239,9 +214,7 @@ I'm always open to interesting projects, collaboration, and conversations around
 <br/>
 
 <!-- ========================================================= -->
-
 <!--                       FOOTER                              -->
-
 <!-- ========================================================= -->
 
 <div align="center">
