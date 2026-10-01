@@ -47,6 +47,22 @@ I'm **Syed Zohaib**, a Full Stack Developer from Pakistan focused on building mo
 ---
 
 <!-- ========================================================= -->
+<!--                    FEATURED PROJECT                       -->
+<!-- ========================================================= -->
+
+## Pinned Repository
+
+<div align="center">
+
+<a href="https://github.com/syedzohaib29/Image-to-text">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=syedzohaib29&repo=Image-to-text&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=C0CAF5" alt="Image to Text Repository"/>
+</a>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
 <!--                    WHAT I DO                              -->
 <!-- ========================================================= -->
 
