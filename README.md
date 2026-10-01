@@ -4,12 +4,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7AA2F7&height=190&section=header&text=Syed%20Zohaib&fontSize=50&fontColor=C0CAF5&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20Pakistan&descSize=16&descColor=9AA5CE&descAlignY=62" alt="Syed Zohaib" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7AA2F7&height=190&section=header&text=Syed%20Zohaib&fontSize=50&fontColor=C0CAF5&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20Pakistan&descSize=16&descColor=9AA5CE&descAlignY=62" alt="Syed Zohaib Header" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/syedzohaib29">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+with+React+%26+Next.js;Full+Stack+Web+Development;Learning+AI+%2F+ML+%2F+Automation;Turning+ideas+into+shipped+products" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Pakistan;Ask+me+about+React+%26+Next.js;Learning+AI+%2F+ML+%2F+Automation;Building+scalable+web+applications" alt="Typing introduction"/>
 </a>
 
 <br/><br/>
@@ -17,7 +17,7 @@
 <a href="https://github.com/syedzohaib29">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/syed-zohaib-b9a47b204">
+<a href="https://linkedin.com/in/syed-zohaib">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:syedzohaib358@gmail.com">
@@ -34,15 +34,13 @@
 <!--                       ABOUT                               -->
 <!-- ========================================================= -->
 
-## About
+## About Me
 
-I'm **Syed Zohaib**, a Full Stack Developer from Pakistan focused on building modern web applications and practical software solutions.
+Hi 👋, I'm **Syed Zohaib**, a Full Stack Developer based in Pakistan.
 
-* 🔭 Building with **React & Next.js**
 * 🌱 Currently learning **AI / ML / Automation**
-* 💻 Interested in **full stack development, APIs, databases & cloud**
-* 🧠 Exploring practical applications of **AI and automation**
-* 📫 Reach me at **[syedzohaib358@gmail.com](mailto:syedzohaib358@gmail.com)**
+* 💬 Ask me about **React & Next.js**
+* 📫 Reach out via email at **[syedzohaib358@gmail.com](mailto:syedzohaib358@gmail.com)**
 
 ---
 
@@ -50,7 +48,7 @@ I'm **Syed Zohaib**, a Full Stack Developer from Pakistan focused on building mo
 <!--                    FEATURED PROJECT                       -->
 <!-- ========================================================= -->
 
-## Pinned Repository
+## Featured Repository
 
 <div align="center">
 
@@ -63,58 +61,40 @@ I'm **Syed Zohaib**, a Full Stack Developer from Pakistan focused on building mo
 ---
 
 <!-- ========================================================= -->
-<!--                    WHAT I DO                              -->
+<!--                    LANGUAGES & TOOLS                      -->
 <!-- ========================================================= -->
 
-## What I Build
+## Languages & Tools
 
 <div align="center">
 
-|        Web Development       |     Backend & APIs    |   AI & Automation   |
-| :--------------------------: | :-------------------: | :-----------------: |
-| React & Next.js applications | Node.js & Python APIs | AI / ML experiments |
-|     Responsive interfaces    |     REST / GraphQL    | Workflow automation |
-|       Modern UI systems      |  Database-driven apps |  Developer tooling  |
+### Frontend & UI
 
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                    TECH STACK                             -->
-<!-- ========================================================= -->
-
-## Tech Stack
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,sass&theme=dark" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,redux,sass,materialui,figma&theme=dark" alt="Frontend tools"/>
 
 <br/><br/>
 
-### Backend & Programming
+### Backend & Frameworks
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,java,cpp&theme=dark" alt="Backend technologies"/>
-
-<br/><br/>
-
-### AI / ML & Data
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,python&theme=dark" alt="AI and machine learning technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,java,cpp,graphql&theme=dark" alt="Backend tools"/>
 
 <br/><br/>
 
-### Databases & Services
+### AI, Data & Automation
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,appwrite,graphql&theme=dark" alt="Databases and services"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,python,selenium,zapier&theme=dark" alt="AI and ML tools"/>
 
 <br/><br/>
 
-### Cloud, DevOps & Tools
+### Databases & Cloud Services
 
-<img src="https://skillicons.dev/icons?i=git,docker,aws,azure,gcp,linux,bash,kubernetes,jenkins,figma&theme=dark" alt="Cloud and developer tools"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,appwrite,aws,azure,gcp&theme=dark" alt="Database and cloud tools"/>
+
+<br/><br/>
+
+### DevOps, System & Monitoring
+
+<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,linux,bash,grafana&theme=dark" alt="DevOps and tools"/>
 
 </div>
 
@@ -182,26 +162,6 @@ I'm **Syed Zohaib**, a Full Stack Developer from Pakistan focused on building mo
 ---
 
 <!-- ========================================================= -->
-<!--                  GITHUB SUMMARY                           -->
-<!-- ========================================================= -->
-
-## GitHub Summary
-
-<div align="center">
-
-<a href="https://github.com/syedzohaib29?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View%20All-1A1B26?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="Repositories"/>
-</a>
-
-<a href="https://github.com/syedzohaib29?tab=stars">
-<img src="https://img.shields.io/badge/Starred%20Projects-View%20All-1A1B26?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="Starred projects"/>
-</a>
-
-</div>
-
----
-
-<!-- ========================================================= -->
 <!--                       CONNECT                             -->
 <!-- ========================================================= -->
 
@@ -209,18 +169,12 @@ I'm **Syed Zohaib**, a Full Stack Developer from Pakistan focused on building mo
 
 <div align="center">
 
-I'm always open to interesting projects, collaboration, and conversations around software development.
-
-<br/><br/>
-
 <a href="mailto:syedzohaib358@gmail.com">
 <img src="https://img.shields.io/badge/Get%20in%20Touch-7AA2F7?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Contact me"/>
 </a>
-
-<a href="https://www.linkedin.com/in/syed-zohaib-b9a47b204">
+<a href="https://linkedin.com/in/syed-zohaib">
 <img src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn"/>
 </a>
-
 <a href="https://github.com/syedzohaib29">
 <img src="https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="GitHub"/>
 </a>
