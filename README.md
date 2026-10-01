@@ -1,5 +1,7 @@
 <!-- ========================================================= -->
+
 <!--                       HEADER                              -->
+
 <!-- ========================================================= -->
 
 <div align="center">
@@ -8,15 +10,10 @@
 
 <br/>
 
-<a href="https://github.com/syedzohaib29">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+with+React+%26+Next.js;Full+Stack+Web+Development;Learning+AI+%2F+ML+%2F+Automation;Turning+ideas+into+shipped+products" alt="Typing introduction"/>
-</a>
 
 <br/><br/>
 
-<a href="https://github.com/syedzohaib29">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 <a href="https://www.linkedin.com/in/syed-zohaib-b9a47b204">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -29,43 +26,46 @@
 <br/>
 
 <!-- ========================================================= -->
+
 <!--                       ABOUT                               -->
+
 <!-- ========================================================= -->
 
 ## About
 
 I'm Syed Zohaib, a Full Stack Developer from Pakistan focused on building modern web applications and practical software solutions.
 
-- 🔭 Building with React & Next.js
-- 🌱 Currently learning AI / ML / Automation
-- 💻 Interested in full stack development, APIs, databases & cloud
-- 🧠 Exploring practical applications of AI and automation
-- 📫 Reach me at syedzohaib358@gmail.com
+* 🔭 Building with React & Next.js
+* 🌱 Currently learning AI / ML / Automation
+* 💻 Interested in full stack development, APIs, databases & cloud
+* 🧠 Exploring practical applications of AI and automation
+* 📫 Reach me at [syedzohaib358@gmail.com](mailto:syedzohaib358@gmail.com)
 
 <br/>
 
 <!-- ========================================================= -->
+
 <!--                    WHAT I DO                              -->
+
 <!-- ========================================================= -->
 
 ## What I Build
 
 <div align="center">
 
-**Web Development** &nbsp;|&nbsp; **Backend & APIs** &nbsp;|&nbsp; **AI & Automation**
-<br/>
-React & Next.js applications &nbsp;•&nbsp; Node.js & Python APIs &nbsp;•&nbsp; AI / ML experiments
-<br/>
-Responsive interfaces &nbsp;•&nbsp; REST / GraphQL &nbsp;•&nbsp; Workflow automation
-<br/>
-Modern UI systems &nbsp;•&nbsp; Database-driven apps &nbsp;•&nbsp; Developer tooling
+**Web Development**  |  **Backend & APIs**  |  **AI & Automation** <br/>
+React & Next.js applications  •  Node.js & Python APIs  •  AI / ML experiments <br/>
+Responsive interfaces  •  REST / GraphQL  •  Workflow automation <br/>
+Modern UI systems  •  Database-driven apps  •  Developer tooling
 
 </div>
 
 <br/>
 
 <!-- ========================================================= -->
+
 <!--                    TECH STACK                             -->
+
 <!-- ========================================================= -->
 
 ## Tech Stack
@@ -73,22 +73,27 @@ Modern UI systems &nbsp;•&nbsp; Database-driven apps &nbsp;•&nbsp; Developer
 <div align="center">
 
 ### Frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,sass&theme=dark" alt="Frontend technologies"/>
 <br/><br/>
 
 ### Backend & Programming
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,java,cpp&theme=dark" alt="Backend technologies"/>
 <br/><br/>
 
 ### AI / ML & Data
+
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,python&theme=dark" alt="AI and machine learning technologies"/>
 <br/><br/>
 
 ### Databases & Services
+
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,appwrite,graphql&theme=dark" alt="Databases and services"/>
 <br/><br/>
 
 ### Cloud, DevOps & Tools
+
 <img src="https://skillicons.dev/icons?i=git,docker,aws,azure,gcp,linux,bash,kubernetes,jenkins,figma&theme=dark" alt="Cloud and developer tools"/>
 
 </div>
@@ -96,26 +101,9 @@ Modern UI systems &nbsp;•&nbsp; Database-driven apps &nbsp;•&nbsp; Developer
 <br/>
 
 <!-- ========================================================= -->
-<!--                  GITHUB SUMMARY                           -->
-<!-- ========================================================= -->
 
-## GitHub Summary
-
-<div align="center">
-
-<a href="https://github.com/syedzohaib29?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View%20All-1A1B26?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="Repositories"/>
-</a>
-<a href="https://github.com/syedzohaib29?tab=stars">
-<img src="https://img.shields.io/badge/Starred%20Projects-View%20All-1A1B26?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="Starred projects"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ========================================================= -->
 <!--                       CONNECT                             -->
+
 <!-- ========================================================= -->
 
 ## Let's Connect
@@ -132,16 +120,15 @@ I'm always open to interesting projects, collaboration, and conversations around
 <a href="https://www.linkedin.com/in/syed-zohaib-b9a47b204">
 <img src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/syedzohaib29">
-<img src="https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="GitHub"/>
-</a>
 
 </div>
 
 <br/>
 
 <!-- ========================================================= -->
+
 <!--                       FOOTER                              -->
+
 <!-- ========================================================= -->
 
 <div align="center">
