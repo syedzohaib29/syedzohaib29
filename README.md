@@ -4,12 +4,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7AA2F7&height=190&section=header&text=Syed%20Zohaib&fontSize=50&fontColor=C0CAF5&fontAlignY=40&desc=Full%20Stack%20Developer%20from%20Pakistan&descSize=16&descColor=9AA5CE&descAlignY=62" alt="Syed Zohaib Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7AA2F7&height=190&section=header&text=Syed%20Zohaib&fontSize=50&fontColor=C0CAF5&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20Pakistan&descSize=16&descColor=9AA5CE&descAlignY=62" alt="Syed Zohaib" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/syedzohaib29">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Syed+Zohaib;Full+Stack+Developer+from+Pakistan;Ask+me+about+React%2C+Next.js;Currently+learning+AI%2FML%2FAutomation" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+with+React+%26+Next.js;Full+Stack+Web+Development;Learning+AI+%2F+ML+%2F+Automation;Turning+ideas+into+shipped+products" alt="Typing introduction"/>
 </a>
 
 <br/><br/>
@@ -17,7 +17,7 @@
 <a href="https://github.com/syedzohaib29">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://linkedin.com/in/syed zohaib" target="_blank">
+<a href="https://www.linkedin.com/in/syed-zohaib-b9a47b204">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:syedzohaib358@gmail.com">
@@ -28,93 +28,109 @@
 
 <br/>
 
----
-
 <!-- ========================================================= -->
-<!--                       ABOUT ME                            -->
+<!--                       ABOUT                               -->
 <!-- ========================================================= -->
 
-## About Me
+## About
 
-- 🌱 I’m currently learning **AI/ML/Automation**
-- 💬 Ask me about **React,Next.js**
-- 📫 How to reach me **syedzohaib358@gmail.com**
+I'm Syed Zohaib, a Full Stack Developer from Pakistan focused on building modern web applications and practical software solutions.
 
----
+- 🔭 Building with React & Next.js
+- 🌱 Currently learning AI / ML / Automation
+- 💻 Interested in full stack development, APIs, databases & cloud
+- 🧠 Exploring practical applications of AI and automation
+- 📫 Reach me at syedzohaib358@gmail.com
+
+<br/>
 
 <!-- ========================================================= -->
-<!--                  LANGUAGES AND TOOLS                      -->
+<!--                    WHAT I DO                              -->
 <!-- ========================================================= -->
 
-## Languages and Tools
+## What I Build
 
-<p align="left">
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-  <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
-</p>
+<div align="center">
 
----
+**Web Development** &nbsp;|&nbsp; **Backend & APIs** &nbsp;|&nbsp; **AI & Automation**
+<br/>
+React & Next.js applications &nbsp;•&nbsp; Node.js & Python APIs &nbsp;•&nbsp; AI / ML experiments
+<br/>
+Responsive interfaces &nbsp;•&nbsp; REST / GraphQL &nbsp;•&nbsp; Workflow automation
+<br/>
+Modern UI systems &nbsp;•&nbsp; Database-driven apps &nbsp;•&nbsp; Developer tooling
+
+</div>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                    TECH STACK                             -->
+<!-- ========================================================= -->
+
+## Tech Stack
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,sass&theme=dark" alt="Frontend technologies"/>
+<br/><br/>
+
+### Backend & Programming
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,java,cpp&theme=dark" alt="Backend technologies"/>
+<br/><br/>
+
+### AI / ML & Data
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,python&theme=dark" alt="AI and machine learning technologies"/>
+<br/><br/>
+
+### Databases & Services
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,appwrite,graphql&theme=dark" alt="Databases and services"/>
+<br/><br/>
+
+### Cloud, DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,docker,aws,azure,gcp,linux,bash,kubernetes,jenkins,figma&theme=dark" alt="Cloud and developer tools"/>
+
+</div>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                  GITHUB SUMMARY                           -->
+<!-- ========================================================= -->
+
+## GitHub Summary
+
+<div align="center">
+
+<a href="https://github.com/syedzohaib29?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View%20All-1A1B26?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="Repositories"/>
+</a>
+<a href="https://github.com/syedzohaib29?tab=stars">
+<img src="https://img.shields.io/badge/Starred%20Projects-View%20All-1A1B26?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="Starred projects"/>
+</a>
+
+</div>
+
+<br/>
 
 <!-- ========================================================= -->
 <!--                       CONNECT                             -->
 <!-- ========================================================= -->
 
-## Connect with me:
+## Let's Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/syed zohaib" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="syed zohaib linkedin"/>
-</a>
+I'm always open to interesting projects, collaboration, and conversations around software development.
+
+<br/><br/>
+
 <a href="mailto:syedzohaib358@gmail.com">
-<img src="https://img.shields.io/badge/Email-1A1B26?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email"/>
+<img src="https://img.shields.io/badge/Get%20in%20Touch-7AA2F7?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Contact me"/>
+</a>
+<a href="https://www.linkedin.com/in/syed-zohaib-b9a47b204">
+<img src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/syedzohaib29">
 <img src="https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="GitHub"/>
